@@ -9,7 +9,7 @@
 ### 🎁Back-end
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 
-## ✨프로젝트 경험 ✨
+## ✨Project✨
 
 ### 프로젝트명 :
 #### G-CAP
@@ -24,26 +24,9 @@
 #### ✔절대단위 아닌 %,,vw,vh,em 의 단위를 활용하여 해결 할 수 있었음 
 
 
-## 🌹희망 직무 관련 활동🌹
-
-### ✔미니 프로젝트 
-#### 프로젝트명 : 청바지 
-#### 참여자 :  임지훈 이정훈 변지원 
-#### 기간 : 2024년 1월 26~ 1월 30일 
-#### 내용 : 자바를 기반으로 미니게임 기획 및 구현 
-#### 역할 : 팀장, 기획, 발표 
-### ✔핵심 프로젝트 
-#### 프로젝트 명 : g-cap
-#### 참여자 : 백종호 변지원 이대길 조승혁 이정훈 
-#### 기간 : 20024년 3월 22일 ~ 4월 5일
-#### 내용 : 하나의 웹서비스를 기획 단계부터 구현 단계까지 팀원가 협업하여 완성 
-#### 역할 : html css (프론트)
-
-### ✔관련 자격증 
-#### 정보처리기사 필기(2024.04.09 ) 
 
 
-## 🧸 교육 🧸 
+## 🧸 Education 🧸 
 
 ### 인공지능 융합 서비스 개발자 과정 (2023.12.29 ~ 2024.06.21)
 ### 대학명 : 조선대학교 
