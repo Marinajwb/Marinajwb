@@ -2,7 +2,6 @@
 ### 🎀마르지 않는 호기심으로 뛰어들 준비가 된 인재로써, 
 ### 🎀과정의 어려움을 견디고 결과의 뿌듯함을 연료로 전진하는 개발자 입니다. 
 ### Django 프로젝트 진행중 
-#### https://github.com/Marinajwb/djangoChallenges.git
 
 ## ✒ skill
 #### 💖 희망분야 : Back-end 💖
